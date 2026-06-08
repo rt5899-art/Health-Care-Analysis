@@ -18,7 +18,6 @@ Healthcare organizations generate large volumes of patient and operational data.
   
 - Identify opportunities to improve patient care and operational efficiency.
 
-This dashboard addresses these challenges through interactive visualizations and KPI monitoring.
 
 ## Project Requirements
 
