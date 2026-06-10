@@ -22,27 +22,27 @@ Data Source: Multi-dimensional healthcare operational records
 
 #### 1. KPI Performance vs. Goals
 
-  Patient Volume Deficit: Last month's patient count reached 4.65K, missing the target goal of 5K by -7.02%.
+  * Patient Volume Deficit: Last month's patient count reached 4.65K, missing the target goal of 5K by -7.02%.
 
-  Financial Surplus: Revenue reached ₹118.84M, outperforming the strategic target of 100M by +18.84%.
+  * Financial Surplus: Revenue reached ₹118.84M, outperforming the strategic target of 100M by +18.84%.
 
-  Critical Threshold Breach: A secondary operational volume metric scaled to 16, exceeding the safety/target ceiling of 10 by -55.76% (over-utilization).
+  * Critical Threshold Breach: A secondary operational volume metric scaled to 16, exceeding the safety/target ceiling of 10 by -55.76% (over-utilization).
 
-  Average Patient Stay/Turnaround: Last month's operational cycle time averaged 51.17 units.
+  * Average Patient Stay/Turnaround: Last month's operational cycle time averaged 51.17 units.
 
 #### 2. Medical Condition Trends
 
-  High-Volume Triggers: Diabetes, Hypertension, and Obesity constitute the largest segment of treatment loads, tightly grouped with peaks averaging between 1,100 to 1,250 patients per month    (highest volumes occurring in July and August).
+  * High-Volume Triggers: Diabetes, Hypertension, and Obesity constitute the largest segment of treatment loads, tightly grouped with peaks averaging between 1,100 to 1,250 patients per            month    (highest volumes occurring in July and August).
 
-  Low-Volume Baseline: Arthritis, Asthma, and Cancer represent lower, consistent volumes, maintaining a steady baseline between 300 to 500 patients per month across all quarters.
+  * Low-Volume Baseline: Arthritis, Asthma, and Cancer represent lower, consistent volumes, maintaining a steady baseline between 300 to 500 patients per month across all quarters.
 
 #### 3. Demographic & Patient Profiles
 
-  Historical Growth: Total tracking peaked between 2021 and 2023 at 10K to 11K patients annually, with an even gender distribution balancing 5K Female and 5K to 6K Male patients.
+ *  Historical Growth: Total tracking peaked between 2021 and 2023 at 10K to 11K patients annually, with an even gender distribution balancing 5K Female and 5K to 6K Male patients.
 
-  Blood Type Dominance: A+ (35%) and O+ (25%) make up a combined 60% (33.31K patients) of the entire patient database, creating specific inventory needs.
+ *  Blood Type Dominance: A+ (35%) and O+ (25%) make up a combined 60% (33.31K patients) of the entire patient database, creating specific inventory needs.
 
-  Provider Allocation: Patient tracking indicates that top clinicians (e.g., Michael Smith, John Smith) handle concentrated caseloads ranging precisely from 20 to 27 active patients at any     given period.
+ *  Provider Allocation: Patient tracking indicates that top clinicians (e.g., Michael Smith, John Smith) handle concentrated caseloads ranging precisely from 20 to 27 active patients at any     given period.
 
 ### Strategic Recommendations
 
