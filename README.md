@@ -16,8 +16,6 @@ Data Modeling & Analytics: DAX (Data Analysis Expressions)
 
 Data Transformation: Power Query ETL
 
-Data Source: Multi-dimensional healthcare operational records
-
 ### Key Business Insights
 
 #### 1. KPI Performance vs. Goals
@@ -48,7 +46,7 @@ Data Source: Multi-dimensional healthcare operational records
 
 Insight: Patient admissions fell 7.02% short of monthly goals, yet financial revenues exceeded targets by 18.84%.
 
- *  Action: Conduct a billing mix audit to determine if high revenue is driven by inflated operational costs per patient or specialized care procedures, then adjust marketing to target under-    utilized clinic capacity.
+ *  Action: Conduct a billing mix audit to determine if high revenue is driven by inflated operational costs per patient or specialized care procedures, then adjust marketing to target under-utilized clinic capacity.
 
 Insight: Chronic lifestyle diseases (Diabetes, Hypertension, Obesity) represent a high volume that peaks in July/August, straining staff resources.
 
