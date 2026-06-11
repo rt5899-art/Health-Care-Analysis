@@ -1,4 +1,4 @@
-## Health Care Resource Matrix
+## Health Care Analytics
 
 ### Project Overview
 
@@ -6,7 +6,7 @@ This repository contains a comprehensive Power BI Healthcare Analytics Dashboard
 
 #### Dashboard Preview 
 
-![image alt](https://github.com/rt5899-art/Health-Care-Analysis/blob/main/ss-%20Health%20care%20BI.png?raw=true)
+![image alt](https://github.com/rt5899-art/Health-Care-Analysis/blob/main/Heath%20care%20analysis.png?raw=true)
 
 ### Tools & Technologies
 
