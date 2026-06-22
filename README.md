@@ -6,7 +6,7 @@ This repository contains a comprehensive Power BI Healthcare Analytics Dashboard
 
 #### Dashboard Preview 
 
-![image alt](https://github.com/rt5899-art/Health-Care-Analysis/blob/main/Heath%20care%20analysis.png?raw=true)
+![image alt](https://github.com/rt5899-art/Health-Care-Analysis/blob/main/healthcare_final(w).png?raw=true)
 
 ### Tools & Technologies
 
