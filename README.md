@@ -44,18 +44,18 @@ Data Transformation: Power Query ETL
 
 ### Strategic Recommendations
 
-Insight: Patient admissions fell 7.02% short of monthly goals, yet financial revenues exceeded targets by 18.84%.
+**Insight:** Patient admissions fell 7.02% short of monthly goals, yet financial revenues exceeded targets by 18.84%.
 
  *  Action: Conduct a billing mix audit to determine if high revenue is driven by inflated operational costs per patient or specialized care procedures, then adjust marketing to target under-utilized clinic capacity.
 
-Insight: Chronic lifestyle diseases (Diabetes, Hypertension, Obesity) represent a high volume that peaks in July/August, straining staff resources.
+**Insight:** Chronic lifestyle diseases (Diabetes, Hypertension, Obesity) represent a high volume that peaks in July/August, straining staff resources.
 
  *  Action: Implement proactive, preventative telemedicine campaigns and outpatient management programs in Q2 to mitigate summer seasonal spikes.
 
-Insight: A+ and O+ blood types account for 60% of total patient demand.
+**Insight:** A+ and O+ blood types account for 60% of total patient demand.
 
  * Action: Align the hospital blood bank supply-chain procurement strategy to maintain a 60% baseline inventory allocation for these two specific blood groups to eliminate emergency stockouts.
 
-Insight: A critical operational metric breached its goal ceiling by 55.76% alongside highly concentrated caseloads among top physicians.
+**Insight:** A critical operational metric breached its goal ceiling by 55.76% alongside highly concentrated caseloads among top physicians.
 
  *  Action: Reallocate clinical staff workloads and optimize shift scheduling to balance patient distribution, reducing burnout risks for lead clinicians.
