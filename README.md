@@ -4,10 +4,6 @@
 
 This repository contains a comprehensive Power BI Healthcare Analytics Dashboard designed to monitor patient demographics, operational metrics, financial performance, and medical conditions. The project transforms raw healthcare data into actionable intelligence, allowing clinical administrators and stakeholders to optimize hospital resource allocation, tracking KPI performance against predefined annual goals.
 
-#### Dashboard Preview 
-
-![image alt](https://github.com/rt5899-art/Health-Care-Analysis/blob/main/healthcare_w.png?raw=true)
-
 ### Tools & Technologies
 
 Business Intelligence: Microsoft Power BI (Desktop & Service)
@@ -15,6 +11,12 @@ Business Intelligence: Microsoft Power BI (Desktop & Service)
 Data Modeling & Analytics: DAX (Data Analysis Expressions)
 
 Data Transformation: Power Query ETL
+
+
+#### Dashboard Preview 
+
+![image alt](https://github.com/rt5899-art/Health-Care-Analysis/blob/main/healthcare_w.png?raw=true)
+
 
 ### Key Business Insights
 
